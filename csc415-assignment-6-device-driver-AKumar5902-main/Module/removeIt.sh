@@ -1,0 +1,2 @@
+sudo rm /dev/Kumar_Anuj_HW6_DeviceDriver
+sudo rmmod Kumar_Anuj_HW6_DeviceDriver.ko
